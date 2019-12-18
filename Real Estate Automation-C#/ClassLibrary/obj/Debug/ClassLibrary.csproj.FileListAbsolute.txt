@@ -1,0 +1,4 @@
+C:\Users\caner\OneDrive\Masaüstü\EmlakOtomasyon\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\caner\OneDrive\Masaüstü\EmlakOtomasyon\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\caner\OneDrive\Masaüstü\EmlakOtomasyon\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\caner\OneDrive\Masaüstü\EmlakOtomasyon\ClassLibrary\obj\Debug\ClassLibrary.pdb

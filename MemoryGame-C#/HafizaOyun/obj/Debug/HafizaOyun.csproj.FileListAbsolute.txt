@@ -1,0 +1,18 @@
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\bin\Debug\HafizaOyun.exe.config
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\bin\Debug\HafizaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\bin\Debug\HafizaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.Form1.resources
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.csproj.GenerateResource.Cache
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\bin\Debug\HafizaOyun.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\bin\Debug\HafizaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\bin\Debug\HafizaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.Form1.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\HafizaOyun\HafizaOyun\obj\Debug\HafizaOyun.csproj.GenerateResource.Cache

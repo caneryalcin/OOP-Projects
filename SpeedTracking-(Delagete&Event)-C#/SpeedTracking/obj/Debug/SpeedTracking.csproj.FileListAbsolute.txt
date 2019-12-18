@@ -1,0 +1,6 @@
+C:\Users\caner\OneDrive\Masaüstü\SpeedTracking\SpeedTracking\bin\Debug\SpeedTracking.exe.config
+C:\Users\caner\OneDrive\Masaüstü\SpeedTracking\SpeedTracking\bin\Debug\SpeedTracking.exe
+C:\Users\caner\OneDrive\Masaüstü\SpeedTracking\SpeedTracking\bin\Debug\SpeedTracking.pdb
+C:\Users\caner\OneDrive\Masaüstü\SpeedTracking\SpeedTracking\obj\Debug\SpeedTracking.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\SpeedTracking\SpeedTracking\obj\Debug\SpeedTracking.exe
+C:\Users\caner\OneDrive\Masaüstü\SpeedTracking\SpeedTracking\obj\Debug\SpeedTracking.pdb

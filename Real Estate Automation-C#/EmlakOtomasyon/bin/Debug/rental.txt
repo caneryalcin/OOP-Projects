@@ -1,0 +1,7 @@
+﻿5-2-10-Yenimahalle-150-Mustakil-False-2500-2500-2000-1/22/2018 12:00:00 AM-648-Kiralık-./images/house2.png
+3-2-11-Batıkent-150-Dubleks-False-2500-2500-1200-1/17/2018 12:00:00 AM-653-Kiralık-i/images/house3.png
+12-34-124-Yenimahalle-41-Bahceli-True-124124-515412-81600-11/14/2019 12:00:00 AM--13-Kiralık-./images/house2.png
+123-4124-124-Yenimahalle-124-Mustakil-True-124124-1241-101450400-11/14/2019 12:00:00 AM--13-Kiralık-./images/house3.png
+123-4124-124-Yenimahalle-124-Mustakil-True-124124-1241-101450400-11/14/2019 12:00:00 AM--13-Kiralık-./images/house3.png
+123-4124-124-Yenimahalle-124-Mustakil-True-124124-1241-101450400-11/14/2019 12:00:00 AM--13-Kiralık-./images/house1.png
+123-4124-124-Yenimahalle-124-Mustakil-True-124124-1241-101450400-11/14/2019 12:00:00 AM--13-Kiralık-./images/house2.png

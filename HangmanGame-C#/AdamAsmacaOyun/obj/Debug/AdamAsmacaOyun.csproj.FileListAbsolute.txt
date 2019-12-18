@@ -1,0 +1,60 @@
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.exe.config
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.exe
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.pdb
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\Kelime_Ekle_Cikar.g.cs
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\MainWindow.g.cs
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\App.g.cs
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun_MarkupCompile.cache
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun_MarkupCompile.lref
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\Kelime_Ekle_Cikar.baml
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\MainWindow.baml
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.g.resources
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.Properties.Resources.resources
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.csproj.GenerateResource.cache
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.exe
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.pdb
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\KelimeTahmin.g.cs
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\KelimeTahmin.baml
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\SkorListe.g.cs
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\SkorListe.baml
+C:\Users\caner\source\repos\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.csprojAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\KelimeTahmin.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\Kelime_Ekle_Cikar.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\MainWindow.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\SkorListe.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\App.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun_MarkupCompile.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun_MarkupCompile.lref
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\KelimeTahmin.baml
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\Kelime_Ekle_Cikar.baml
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\MainWindow.baml
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\SkorListe.baml
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.g.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.csproj.GenerateResource.Cache
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\bin\Debug\AdamAsmacaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\KelimeTahmin.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\Kelime_Ekle_Cikar.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\MainWindow.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\SkorListe.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\App.g.cs
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun_MarkupCompile.cache
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun_MarkupCompile.lref
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\KelimeTahmin.baml
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\Kelime_Ekle_Cikar.baml
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\MainWindow.baml
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\SkorListe.baml
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.g.resources
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\AdamAsmacaOyun\AdamAsmacaOyun\obj\Debug\AdamAsmacaOyun.csproj.GenerateResource.Cache

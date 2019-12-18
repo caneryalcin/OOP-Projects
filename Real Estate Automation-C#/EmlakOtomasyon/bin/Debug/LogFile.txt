@@ -1,0 +1,379 @@
+RoomNumber: Pozitive Value: 1Date: 10/29/2019 9:46:42 AM
+FloorNumber: Pozitive Value: 2Date: 10/29/2019 9:46:42 AM
+Estate Number: Pozitive Value: 1Date: 10/29/2019 9:46:42 AM
+Area: Pozitive Value: 123Date: 10/29/2019 9:46:42 AM
+Rental Deposit: Pozitive Value: 123Date: 10/29/2019 9:46:42 AM
+Rent Price: Pozitive Value: 123Date: 10/29/2019 9:46:42 AM
+RoomNumber: Pozitive Value: 1Date: 10/29/2019 9:48:09 AM
+FloorNumber: Pozitive Value: 2Date: 10/29/2019 9:48:09 AM
+Estate Number: Pozitive Value: 1Date: 10/29/2019 9:48:09 AM
+Area: Pozitive Value: 12Date: 10/29/2019 9:48:09 AM
+Rental Deposit: Pozitive Value: 512Date: 10/29/2019 9:48:09 AM
+Rent Price: Pozitive Value: 123Date: 10/29/2019 9:48:09 AM
+RoomNumber: Pozitive Value: 1Date: 10/29/2019 11:01:27 AM
+FloorNumber: Pozitive Value: 2Date: 10/29/2019 11:01:27 AM
+Estate Number: Pozitive Value: 1Date: 10/29/2019 11:01:27 AM
+Area: Pozitive Value: 12Date: 10/29/2019 11:01:27 AM
+Rental Deposit: Pozitive Value: 512Date: 10/29/2019 11:01:27 AM
+Rent Price: Pozitive Value: 123Date: 10/29/2019 11:01:27 AM
+RoomNumber: Pozitive Value: 1Date: 10/29/2019 9:10:09 PM
+FloorNumber: Pozitive Value: 2Date: 10/29/2019 9:10:09 PM
+Estate Number: Pozitive Value: 1Date: 10/29/2019 9:10:09 PM
+Area: Pozitive Value: 123Date: 10/29/2019 9:10:09 PM
+Rental Deposit: Pozitive Value: 2Date: 10/29/2019 9:10:09 PM
+Rent Price: Pozitive Value: 52Date: 10/29/2019 9:10:09 PM
+RoomNumber: Pozitive Value: 12Date: 10/29/2019 9:11:31 PM
+FloorNumber: Pozitive Value: 21Date: 10/29/2019 9:11:31 PM
+Estate Number: Pozitive Value: 1Date: 10/29/2019 9:11:31 PM
+Area: Pozitive Value: 123Date: 10/29/2019 9:11:31 PM
+Rental Deposit: Pozitive Value: 123Date: 10/29/2019 9:11:31 PM
+Rent Price: Pozitive Value: 123Date: 10/29/2019 9:11:31 PM
+RoomNumber: Pozitive Value: 12Date: 10/29/2019 9:47:43 PM
+FloorNumber: Pozitive Value: 5Date: 10/29/2019 9:47:43 PM
+Estate Number: Pozitive Value: 45Date: 10/29/2019 9:47:43 PM
+Area: Pozitive Value: 65Date: 10/29/2019 9:47:43 PM
+Rent Price: Pozitive Value: 45Date: 10/29/2019 9:47:43 PM
+RoomNumber: Pozitive Value: 1Date: 10/31/2019 7:42:19 PM
+FloorNumber: Pozitive Value: 2Date: 10/31/2019 7:42:19 PM
+Estate Number: Pozitive Value: 1Date: 10/31/2019 7:42:19 PM
+Area: Pozitive Value: 124Date: 10/31/2019 7:42:19 PM
+Rental Deposit: Pozitive Value: 123Date: 10/31/2019 7:42:19 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 7:42:19 PM
+RoomNumber: Pozitive Value: 1Date: 10/31/2019 7:42:32 PM
+FloorNumber: Pozitive Value: 2Date: 10/31/2019 7:42:32 PM
+Estate Number: Pozitive Value: 1Date: 10/31/2019 7:42:32 PM
+Area: Pozitive Value: 124Date: 10/31/2019 7:42:32 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 7:42:32 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 7:43:29 PM
+FloorNumber: Pozitive Value: 12Date: 10/31/2019 7:43:29 PM
+Estate Number: Pozitive Value: 2Date: 10/31/2019 7:43:29 PM
+Area: Pozitive Value: 123Date: 10/31/2019 7:43:29 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 7:43:29 PM
+RoomNumber: Pozitive Value: 1231Date: 10/31/2019 8:00:25 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:00:25 PM
+Estate Number: Pozitive Value: 1Date: 10/31/2019 8:00:25 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:00:25 PM
+Rental Deposit: Pozitive Value: 1234Date: 10/31/2019 8:00:25 PM
+Rent Price: Pozitive Value: 12Date: 10/31/2019 8:00:25 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:02:24 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:02:24 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 8:02:24 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:02:24 PM
+Rental Deposit: Pozitive Value: 123Date: 10/31/2019 8:02:24 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 8:02:24 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:03:48 PM
+FloorNumber: Pozitive Value: 1234Date: 10/31/2019 8:03:48 PM
+Estate Number: Pozitive Value: 1234Date: 10/31/2019 8:03:48 PM
+Area: Pozitive Value: 1234Date: 10/31/2019 8:03:48 PM
+Rental Deposit: Pozitive Value: 123Date: 10/31/2019 8:03:48 PM
+Rent Price: Pozitive Value: 12Date: 10/31/2019 8:03:48 PM
+RoomNumber: Pozitive Value: 1235Date: 10/31/2019 8:08:14 PM
+FloorNumber: Pozitive Value: 1235Date: 10/31/2019 8:08:14 PM
+Estate Number: Pozitive Value: 1235Date: 10/31/2019 8:08:14 PM
+Area: Pozitive Value: 1256Date: 10/31/2019 8:08:14 PM
+Rent Price: Pozitive Value: 12Date: 10/31/2019 8:08:14 PM
+RoomNumber: Pozitive Value: 1235Date: 10/31/2019 8:08:29 PM
+FloorNumber: Pozitive Value: 1235Date: 10/31/2019 8:08:29 PM
+Estate Number: Pozitive Value: 1235Date: 10/31/2019 8:08:29 PM
+Area: Pozitive Value: 1256Date: 10/31/2019 8:08:29 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 8:08:29 PM
+Rent Price: Pozitive Value: 12Date: 10/31/2019 8:08:29 PM
+RoomNumber: Pozitive Value: 1235Date: 10/31/2019 8:08:45 PM
+FloorNumber: Pozitive Value: 1235Date: 10/31/2019 8:08:45 PM
+Estate Number: Pozitive Value: 1235Date: 10/31/2019 8:08:45 PM
+Area: Pozitive Value: 1256Date: 10/31/2019 8:08:45 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 8:08:45 PM
+Rent Price: Pozitive Value: 12Date: 10/31/2019 8:08:45 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:18:20 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:18:20 PM
+Estate Number: Pozitive Value: 124Date: 10/31/2019 8:18:20 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:18:20 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 8:18:20 PM
+Rent Price: Pozitive Value: 124Date: 10/31/2019 8:18:20 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:19:47 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:19:47 PM
+Estate Number: Pozitive Value: 12Date: 10/31/2019 8:19:47 PM
+Area: Pozitive Value: 124Date: 10/31/2019 8:19:47 PM
+Rent Price: Pozitive Value: 41Date: 10/31/2019 8:19:47 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:20:11 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:20:11 PM
+Estate Number: Pozitive Value: 12Date: 10/31/2019 8:20:11 PM
+Area: Pozitive Value: 124Date: 10/31/2019 8:20:11 PM
+Rental Deposit: Pozitive Value: 41Date: 10/31/2019 8:20:11 PM
+Rent Price: Pozitive Value: 41Date: 10/31/2019 8:20:11 PM
+RoomNumber: Pozitive Value: 12345Date: 10/31/2019 8:21:51 PM
+FloorNumber: Pozitive Value: 12345Date: 10/31/2019 8:21:51 PM
+Estate Number: Pozitive Value: 5124Date: 10/31/2019 8:21:51 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:21:51 PM
+Rent Price: Pozitive Value: 124Date: 10/31/2019 8:21:51 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:24:16 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:24:16 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 8:24:16 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:24:16 PM
+Rent Price: Pozitive Value: 14Date: 10/31/2019 8:24:16 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:24:46 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:24:46 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 8:24:46 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:24:46 PM
+Rent Price: Pozitive Value: 14Date: 10/31/2019 8:24:46 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:24:47 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:24:47 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 8:24:47 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:24:47 PM
+Rent Price: Pozitive Value: 14Date: 10/31/2019 8:24:47 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 8:25:43 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 8:25:43 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 8:25:43 PM
+Area: Pozitive Value: 123Date: 10/31/2019 8:25:43 PM
+Rental Deposit: Pozitive Value: 23Date: 10/31/2019 8:25:43 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 8:25:43 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 9:23:09 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 9:23:09 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 9:23:09 PM
+Area: Pozitive Value: 5415Date: 10/31/2019 9:23:09 PM
+Rent Price: Pozitive Value: 5Date: 10/31/2019 9:23:09 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 9:24:26 PM
+FloorNumber: Pozitive Value: 412Date: 10/31/2019 9:24:26 PM
+Estate Number: Pozitive Value: 1421Date: 10/31/2019 9:24:26 PM
+Area: Pozitive Value: 1151Date: 10/31/2019 9:24:26 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 9:24:26 PM
+Rent Price: Pozitive Value: 124Date: 10/31/2019 9:24:26 PM
+RoomNumber: Pozitive Value: 1Date: 10/31/2019 9:38:50 PM
+FloorNumber: Pozitive Value: 2Date: 10/31/2019 9:38:50 PM
+Estate Number: Pozitive Value: 1Date: 10/31/2019 9:38:50 PM
+Area: Pozitive Value: 3Date: 10/31/2019 9:38:50 PM
+Rental Deposit: Pozitive Value: 5Date: 10/31/2019 9:38:50 PM
+Rent Price: Pozitive Value: 2Date: 10/31/2019 9:38:50 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 9:57:42 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 9:57:42 PM
+Estate Number: Pozitive Value: 124Date: 10/31/2019 9:57:42 PM
+Area: Pozitive Value: 124Date: 10/31/2019 9:57:42 PM
+Rent Price: Pozitive Value: 415Date: 10/31/2019 9:57:42 PM
+RoomNumber: Pozitive Value: 3Date: 10/31/2019 10:37:44 PM
+FloorNumber: Pozitive Value: 1Date: 10/31/2019 10:37:44 PM
+Estate Number: Pozitive Value: 1Date: 10/31/2019 10:37:44 PM
+Area: Pozitive Value: 100Date: 10/31/2019 10:37:44 PM
+Rental Deposit: Pozitive Value: 500Date: 10/31/2019 10:37:44 PM
+Rent Price: Pozitive Value: 500Date: 10/31/2019 10:37:44 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 11:29:21 PM
+FloorNumber: Pozitive Value: 12355Date: 10/31/2019 11:29:21 PM
+Estate Number: Pozitive Value: 124Date: 10/31/2019 11:29:21 PM
+Area: Pozitive Value: 1124Date: 10/31/2019 11:29:21 PM
+Rental Deposit: Pozitive Value: 514Date: 10/31/2019 11:29:21 PM
+Rent Price: Pozitive Value: 5323Date: 10/31/2019 11:29:21 PM
+RoomNumber: Pozitive Value: 1231Date: 10/31/2019 11:31:00 PM
+FloorNumber: Pozitive Value: 1241Date: 10/31/2019 11:31:00 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 11:31:00 PM
+Area: Pozitive Value: 5235Date: 10/31/2019 11:31:00 PM
+Rental Deposit: Pozitive Value: 5345Date: 10/31/2019 11:31:00 PM
+Rent Price: Pozitive Value: 523Date: 10/31/2019 11:31:00 PM
+RoomNumber: Pozitive Value: 12Date: 10/31/2019 11:32:32 PM
+FloorNumber: Pozitive Value: 3123Date: 10/31/2019 11:32:32 PM
+Estate Number: Pozitive Value: 13Date: 10/31/2019 11:32:32 PM
+Area: Pozitive Value: 121Date: 10/31/2019 11:32:32 PM
+Rent Price: Pozitive Value: 234Date: 10/31/2019 11:32:32 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 11:35:04 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 11:35:04 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 11:35:04 PM
+Area: Pozitive Value: 123Date: 10/31/2019 11:35:04 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 11:35:04 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 11:35:04 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 11:35:20 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 11:35:20 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 11:35:20 PM
+Area: Pozitive Value: 123Date: 10/31/2019 11:35:20 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 11:35:20 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 11:35:20 PM
+RoomNumber: Pozitive Value: 123Date: 10/31/2019 11:35:39 PM
+FloorNumber: Pozitive Value: 123Date: 10/31/2019 11:35:39 PM
+Estate Number: Pozitive Value: 123Date: 10/31/2019 11:35:39 PM
+Area: Pozitive Value: 123Date: 10/31/2019 11:35:39 PM
+Rental Deposit: Pozitive Value: 124Date: 10/31/2019 11:35:39 PM
+Rent Price: Pozitive Value: 123Date: 10/31/2019 11:35:39 PM
+RoomNumber: Pozitive Value: 3Date: 10/31/2019 11:37:13 PM
+FloorNumber: Pozitive Value: 1Date: 10/31/2019 11:37:13 PM
+Estate Number: Pozitive Value: 4Date: 10/31/2019 11:37:13 PM
+Area: Pozitive Value: 89Date: 10/31/2019 11:37:13 PM
+Rental Deposit: Pozitive Value: 1000Date: 10/31/2019 11:37:13 PM
+Rent Price: Pozitive Value: 1000Date: 10/31/2019 11:37:13 PM
+RoomNumber: Pozitive Value: 3Date: 10/31/2019 11:37:25 PM
+FloorNumber: Pozitive Value: 1Date: 10/31/2019 11:37:25 PM
+Estate Number: Pozitive Value: 4Date: 10/31/2019 11:37:25 PM
+Area: Pozitive Value: 89Date: 10/31/2019 11:37:25 PM
+Rental Deposit: Pozitive Value: 1000Date: 10/31/2019 11:37:25 PM
+Rent Price: Pozitive Value: 1000Date: 10/31/2019 11:37:25 PM
+RoomNumber: Pozitive Value: 1Date: 11/1/2019 12:12:58 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:12:58 AM
+Estate Number: Pozitive Value: 123Date: 11/1/2019 12:12:58 AM
+Area: Pozitive Value: 3Date: 11/1/2019 12:12:58 AM
+Rent Price: Pozitive Value: 123Date: 11/1/2019 12:12:58 AM
+RoomNumber: Pozitive Value: 1Date: 11/1/2019 12:13:47 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:13:47 AM
+Estate Number: Pozitive Value: 123Date: 11/1/2019 12:13:47 AM
+Area: Pozitive Value: 3Date: 11/1/2019 12:13:47 AM
+Rental Deposit: Pozitive Value: 123Date: 11/1/2019 12:13:47 AM
+Rent Price: Pozitive Value: 123Date: 11/1/2019 12:13:47 AM
+RoomNumber: Pozitive Value: 1Date: 11/1/2019 12:14:11 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:14:11 AM
+Estate Number: Pozitive Value: 123Date: 11/1/2019 12:14:11 AM
+Area: Pozitive Value: 3Date: 11/1/2019 12:14:11 AM
+Rent Price: Pozitive Value: 123Date: 11/1/2019 12:14:11 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 12:24:10 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 12:24:10 AM
+Estate Number: Pozitive Value: 1234Date: 11/1/2019 12:24:10 AM
+Area: Pozitive Value: 124Date: 11/1/2019 12:24:10 AM
+Rental Deposit: Pozitive Value: 41241Date: 11/1/2019 12:24:10 AM
+Rent Price: Pozitive Value: 412412Date: 11/1/2019 12:24:10 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 12:25:50 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 12:25:50 AM
+Estate Number: Pozitive Value: 123Date: 11/1/2019 12:25:50 AM
+Area: Pozitive Value: 4Date: 11/1/2019 12:25:50 AM
+Rental Deposit: Pozitive Value: 124Date: 11/1/2019 12:25:50 AM
+Rent Price: Pozitive Value: 123Date: 11/1/2019 12:25:50 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 12:28:21 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 12:28:21 AM
+Estate Number: Pozitive Value: 123Date: 11/1/2019 12:28:21 AM
+Area: Pozitive Value: 123Date: 11/1/2019 12:28:21 AM
+Rent Price: Pozitive Value: 123Date: 11/1/2019 12:28:21 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 12:29:38 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 12:29:38 AM
+Estate Number: Pozitive Value: 123Date: 11/1/2019 12:29:38 AM
+Area: Pozitive Value: 123Date: 11/1/2019 12:29:38 AM
+Rental Deposit: Pozitive Value: 41Date: 11/1/2019 12:29:38 AM
+Rent Price: Pozitive Value: 1243Date: 11/1/2019 12:29:38 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 12:35:40 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 12:35:40 AM
+Estate Number: Pozitive Value: 4124Date: 11/1/2019 12:35:40 AM
+Area: Pozitive Value: 123Date: 11/1/2019 12:35:40 AM
+Rental Deposit: Pozitive Value: 12412Date: 11/1/2019 12:35:40 AM
+Rent Price: Pozitive Value: 12412Date: 11/1/2019 12:35:40 AM
+RoomNumber: Pozitive Value: 3Date: 11/1/2019 12:39:19 AM
+FloorNumber: Pozitive Value: 1Date: 11/1/2019 12:39:19 AM
+Estate Number: Pozitive Value: 1Date: 11/1/2019 12:39:19 AM
+Area: Pozitive Value: 87Date: 11/1/2019 12:39:19 AM
+Rental Deposit: Pozitive Value: 1000Date: 11/1/2019 12:39:19 AM
+Rent Price: Pozitive Value: 1000Date: 11/1/2019 12:39:19 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:40:29 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:40:29 AM
+Estate Number: Pozitive Value: 2Date: 11/1/2019 12:40:29 AM
+Area: Pozitive Value: 100Date: 11/1/2019 12:40:29 AM
+Rent Price: Pozitive Value: 400000Date: 11/1/2019 12:40:29 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:41:25 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:41:25 AM
+Estate Number: Pozitive Value: 4Date: 11/1/2019 12:41:25 AM
+Area: Pozitive Value: 100Date: 11/1/2019 12:41:25 AM
+Rent Price: Pozitive Value: 100000Date: 11/1/2019 12:41:25 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:41:53 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:41:53 AM
+Estate Number: Pozitive Value: 3Date: 11/1/2019 12:41:53 AM
+Area: Pozitive Value: 100Date: 11/1/2019 12:41:53 AM
+Rent Price: Pozitive Value: 1000Date: 11/1/2019 12:41:53 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:42:38 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:42:38 AM
+Estate Number: Pozitive Value: 2Date: 11/1/2019 12:42:38 AM
+Area: Pozitive Value: 100Date: 11/1/2019 12:42:38 AM
+Rent Price: Pozitive Value: 500000Date: 11/1/2019 12:42:38 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:48:57 AM
+FloorNumber: Pozitive Value: 4Date: 11/1/2019 12:48:57 AM
+Estate Number: Pozitive Value: 4Date: 11/1/2019 12:48:57 AM
+Area: Pozitive Value: 152Date: 11/1/2019 12:48:57 AM
+Rental Deposit: Pozitive Value: 1244Date: 11/1/2019 12:48:57 AM
+Rent Price: Pozitive Value: 1214Date: 11/1/2019 12:48:57 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 12:50:32 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 12:50:32 AM
+Estate Number: Pozitive Value: 124Date: 11/1/2019 12:50:32 AM
+Area: Pozitive Value: 124Date: 11/1/2019 12:50:32 AM
+Rental Deposit: Pozitive Value: 124124Date: 11/1/2019 12:50:32 AM
+Rent Price: Pozitive Value: 14124Date: 11/1/2019 12:50:32 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:57:12 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:57:12 AM
+Estate Number: Pozitive Value: 5Date: 11/1/2019 12:57:12 AM
+Area: Pozitive Value: 150Date: 11/1/2019 12:57:12 AM
+Rental Deposit: Pozitive Value: 2000Date: 11/1/2019 12:57:12 AM
+Rent Price: Pozitive Value: 2000Date: 11/1/2019 12:57:12 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 12:58:14 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 12:58:14 AM
+Estate Number: Pozitive Value: 8Date: 11/1/2019 12:58:14 AM
+Area: Pozitive Value: 160Date: 11/1/2019 12:58:14 AM
+Rental Deposit: Pozitive Value: 3000Date: 11/1/2019 12:58:14 AM
+Rent Price: Pozitive Value: 3000Date: 11/1/2019 12:58:14 AM
+RoomNumber: Pozitive Value: 4124Date: 11/1/2019 1:17:46 AM
+FloorNumber: Pozitive Value: 124Date: 11/1/2019 1:17:46 AM
+Estate Number: Pozitive Value: 124124Date: 11/1/2019 1:17:46 AM
+Area: Pozitive Value: 1245Date: 11/1/2019 1:17:46 AM
+Rental Deposit: Pozitive Value: 52323Date: 11/1/2019 1:17:46 AM
+Rent Price: Pozitive Value: 151Date: 11/1/2019 1:17:46 AM
+RoomNumber: Pozitive Value: 2Date: 11/1/2019 2:44:39 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:44:39 AM
+Estate Number: Pozitive Value: 5Date: 11/1/2019 2:44:39 AM
+Area: Pozitive Value: 100Date: 11/1/2019 2:44:39 AM
+Rent Price: Pozitive Value: 50000Date: 11/1/2019 2:44:39 AM
+RoomNumber: Pozitive Value: 2Date: 11/1/2019 2:44:41 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:44:41 AM
+Estate Number: Pozitive Value: 5Date: 11/1/2019 2:44:41 AM
+Area: Pozitive Value: 100Date: 11/1/2019 2:44:41 AM
+Rent Price: Pozitive Value: 50000Date: 11/1/2019 2:44:41 AM
+RoomNumber: Pozitive Value: 2Date: 11/1/2019 2:47:11 AM
+FloorNumber: Pozitive Value: 6Date: 11/1/2019 2:47:11 AM
+Estate Number: Pozitive Value: 5Date: 11/1/2019 2:47:11 AM
+Area: Pozitive Value: 150Date: 11/1/2019 2:47:11 AM
+Rent Price: Pozitive Value: 5000Date: 11/1/2019 2:47:11 AM
+RoomNumber: Pozitive Value: 1Date: 11/1/2019 2:49:17 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:49:17 AM
+Estate Number: Pozitive Value: 3Date: 11/1/2019 2:49:17 AM
+Area: Pozitive Value: 87Date: 11/1/2019 2:49:17 AM
+Rent Price: Pozitive Value: 0Date: 11/1/2019 2:49:17 AM
+RoomNumber: Pozitive Value: 1Date: 11/1/2019 2:49:38 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:49:38 AM
+Estate Number: Pozitive Value: 3Date: 11/1/2019 2:49:38 AM
+Area: Pozitive Value: 87Date: 11/1/2019 2:49:38 AM
+Rent Price: Pozitive Value: 0Date: 11/1/2019 2:49:38 AM
+RoomNumber: Pozitive Value: 5Date: 11/1/2019 2:50:37 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:50:37 AM
+Estate Number: Pozitive Value: 10Date: 11/1/2019 2:50:37 AM
+Area: Pozitive Value: 150Date: 11/1/2019 2:50:37 AM
+Rental Deposit: Pozitive Value: 2500Date: 11/1/2019 2:50:37 AM
+Rent Price: Pozitive Value: 2500Date: 11/1/2019 2:50:37 AM
+RoomNumber: Pozitive Value: 3Date: 11/1/2019 2:50:50 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:50:50 AM
+Estate Number: Pozitive Value: 11Date: 11/1/2019 2:50:50 AM
+Area: Pozitive Value: 150Date: 11/1/2019 2:50:50 AM
+Rental Deposit: Pozitive Value: 2500Date: 11/1/2019 2:50:50 AM
+Rent Price: Pozitive Value: 2500Date: 11/1/2019 2:50:50 AM
+RoomNumber: Pozitive Value: 6Date: 11/1/2019 2:51:45 AM
+FloorNumber: Pozitive Value: 2Date: 11/1/2019 2:51:45 AM
+Estate Number: Pozitive Value: 12Date: 11/1/2019 2:51:45 AM
+Area: Pozitive Value: 200Date: 11/1/2019 2:51:45 AM
+Rent Price: Pozitive Value: 500000Date: 11/1/2019 2:51:45 AM
+RoomNumber: Pozitive Value: 4Date: 11/1/2019 2:55:49 AM
+FloorNumber: Pozitive Value: 1Date: 11/1/2019 2:55:49 AM
+Estate Number: Pozitive Value: 16Date: 11/1/2019 2:55:49 AM
+Area: Pozitive Value: 100Date: 11/1/2019 2:55:49 AM
+Rent Price: Pozitive Value: 100000Date: 11/1/2019 2:55:49 AM
+RoomNumber: Pozitive Value: 12Date: 11/1/2019 3:02:00 AM
+FloorNumber: Pozitive Value: 34Date: 11/1/2019 3:02:00 AM
+Estate Number: Pozitive Value: 124Date: 11/1/2019 3:02:00 AM
+Area: Pozitive Value: 41Date: 11/1/2019 3:02:00 AM
+Rental Deposit: Pozitive Value: 124124Date: 11/1/2019 3:02:00 AM
+Rent Price: Pozitive Value: 515412Date: 11/1/2019 3:02:00 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 3:05:27 AM
+FloorNumber: Pozitive Value: 123Date: 11/1/2019 3:05:27 AM
+Estate Number: Pozitive Value: 124Date: 11/1/2019 3:05:27 AM
+Area: Pozitive Value: 424Date: 11/1/2019 3:05:27 AM
+Rent Price: Pozitive Value: 1241241Date: 11/1/2019 3:05:27 AM
+RoomNumber: Pozitive Value: 12312Date: 11/1/2019 3:06:00 AM
+FloorNumber: Pozitive Value: 12312Date: 11/1/2019 3:06:00 AM
+Estate Number: Pozitive Value: 2131Date: 11/1/2019 3:06:00 AM
+Area: Pozitive Value: 12312Date: 11/1/2019 3:06:00 AM
+Rent Price: Pozitive Value: 12412Date: 11/1/2019 3:06:00 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 8:28:45 AM
+FloorNumber: Pozitive Value: 4124Date: 11/1/2019 8:28:45 AM
+Estate Number: Pozitive Value: 124Date: 11/1/2019 8:28:45 AM
+Area: Pozitive Value: 124Date: 11/1/2019 8:28:45 AM
+Rental Deposit: Pozitive Value: 124124Date: 11/1/2019 8:28:45 AM
+Rent Price: Pozitive Value: 1241Date: 11/1/2019 8:28:45 AM
+RoomNumber: Pozitive Value: 123Date: 11/1/2019 8:37:59 AM
+FloorNumber: Pozitive Value: 589Date: 11/1/2019 8:37:59 AM
+Estate Number: Pozitive Value: 746Date: 11/1/2019 8:37:59 AM
+Area: Pozitive Value: 9809Date: 11/1/2019 8:37:59 AM
+Rent Price: Pozitive Value: 635646Date: 11/1/2019 8:37:59 AM

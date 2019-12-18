@@ -1,0 +1,5 @@
+﻿2-6-5-Batıkent-150-Mustakil-True-5000-2400-11/5/2019 12:00:00 AM--4-Satılık-./images/house3.png
+1-2-3-Yenimahalle-87-Dubleks-False-0-400-11/12/2019 12:00:00 AM--11-Satılık-./images/house1.png
+1-2-4-Yenimahalle-87-Dubleks-False-0-400-11/12/2019 12:00:00 AM--11-Satılık-./images/house2.png
+6-2-12-Yenimahalle-200-Bahceli-True-500000-2400-11/24/2019 12:00:00 AM--23-Satılık-./images/house3.png
+4-1-16-Batıkent-100-Bahceli-True-100000-800-11/11/2019 12:00:00 AM--10-Satılık-./images/house3.png

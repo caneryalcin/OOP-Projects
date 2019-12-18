@@ -1,0 +1,37 @@
+﻿<Window x:Class="AdamAsmacaOyun.KelimeTahmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdamAsmacaOyun"
+        mc:Ignorable="d"
+        Title="KelimeTahmin" Height="256" Width="571">
+    <Grid>
+        <TextBox x:Name="kelimeHaneText" HorizontalAlignment="Left" Height="22" Margin="228,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="harfTahminText" HorizontalAlignment="Left" Height="22" Margin="33,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="tahminEt" Content="Tahmin" HorizontalAlignment="Left" Margin="54,66,0,0" VerticalAlignment="Top" Width="76" Click="tahminEt_Click"/>
+        <Button x:Name="haneBtn" Content="Hane Ver" HorizontalAlignment="Left" Margin="248,66,0,0" VerticalAlignment="Top" Width="75" Click="Hane_Click"/>
+
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="420,99,0,0"/>
+        <Label x:Name="labelasd" Content="Hak" HorizontalAlignment="Left" Margin="384,29,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="hakLbl" Content="0" HorizontalAlignment="Left" Margin="425,31,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelwer" Content="Skor" HorizontalAlignment="Left" Margin="491,30,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="SkorLbl" Content="0" HorizontalAlignment="Left" Margin="534,31,0,0" VerticalAlignment="Top" />
+        <Label x:Name="label0" Content="_" HorizontalAlignment="Left" Margin="128,137,0,0" VerticalAlignment="Top" Visibility="Hidden" />
+        <Label x:Name="label1" Content="_" HorizontalAlignment="Left" Margin="148,137,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="label2" Content="_" HorizontalAlignment="Left" Margin="168,137,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="label3" Content="_" HorizontalAlignment="Left" Margin="188,137,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="label4" Content="_" HorizontalAlignment="Left" Margin="208,137,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="label5" Content="_" HorizontalAlignment="Left" Margin="228,137,0,0" VerticalAlignment="Top" Visibility="Hidden" RenderTransformOrigin="1.974,2.154"/>
+        <Label x:Name="label6" Content="_" HorizontalAlignment="Left" Margin="248,137,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="skorLbl" Content="0" HorizontalAlignment="Left" Margin="534,31,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="cizgiLbl0" Content="_" HorizontalAlignment="Left" Margin="128,140,0,0" VerticalAlignment="Top" />
+        <Label x:Name="cizgiLbl1" Content="_" HorizontalAlignment="Left" Margin="148,140,0,0" VerticalAlignment="Top" />
+        <Label x:Name="cizgiLbl2" Content="_" HorizontalAlignment="Left" Margin="168,140,0,0" VerticalAlignment="Top" />
+        <Label x:Name="cizgiLbl3" Content="_" HorizontalAlignment="Left" Margin="188,140,0,0" VerticalAlignment="Top" />
+        <Label x:Name="cizgiLbl4" Content="_" HorizontalAlignment="Left" Margin="208,140,0,0" VerticalAlignment="Top" />
+        <Label x:Name="cizgiLbl5" Content="_" HorizontalAlignment="Left" Margin="228,140,0,0" VerticalAlignment="Top"  RenderTransformOrigin="1.974,2.154"/>
+        <Label Content="Yanlış Girilenler Harfler
+               " HorizontalAlignment="Left" Margin="403,68,0,0" VerticalAlignment="Top" Width="131"/>
+    </Grid>
+</Window>

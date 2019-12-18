@@ -1,0 +1,30 @@
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.exe.config
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.exe
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.pdb
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.csprojAssemblyReference.cache
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.Form1.resources
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.Properties.Resources.resources
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.csproj.GenerateResource.cache
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.exe
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.pdb
+C:\Users\caner\source\repos\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.SkorForm.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.Form1.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.SkorForm.resources
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.csproj.GenerateResource.Cache
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Ödev Yedekler\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.exe.config
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.exe
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\bin\Debug\SayiBulmaOyun.pdb
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.csprojResolveAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.Form1.resources
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.Properties.Resources.resources
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.SkorForm.resources
+C:\Users\caner\OneDrive\Masaüstü\Programlama Dili-3 Ödev\SayiBulmaOyun\SayiBulmaOyun\obj\Debug\SayiBulmaOyun.csproj.GenerateResource.Cache
